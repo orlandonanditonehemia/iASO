@@ -195,3 +195,9 @@ Pull requests are welcome. A few areas worth improving:
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
+
+## Author
+
+Built by **Orlando Nandito**
+
+[![X / Twitter](https://img.shields.io/badge/X-%40orlandonandito-black?style=flat-square&logo=x)](https://x.com/orlandonandito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orlando%20Nandito-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/orlandonandito/)
