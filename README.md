@@ -13,6 +13,10 @@ Find high-opportunity keywords, analyze competitors, and generate metadata with 
 
 <br>
 
+<img src="screenshots/hero.webp" alt="iASO — Free open-source ASO keyword research tool for macOS" width="900">
+
+<br>
+
 <img src="screenshots/competitor-research.webp" alt="iASO — Competitor Research" width="900">
 
 </div>
