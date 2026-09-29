@@ -13,5 +13,11 @@ struct iASOApp: App {
         WindowGroup {
             ContentView()
         }
+        .windowStyle(.titleBar)
+        .windowToolbarStyle(.unified)
+        .defaultSize(width: 960, height: 640)
+        .commands {
+            CommandGroup(replacing: .newItem) {}
+        }
     }
 }
