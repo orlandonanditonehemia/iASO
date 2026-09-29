@@ -9,6 +9,10 @@ Find high-opportunity keywords, analyze competitors, and generate metadata with 
 
 <br>
 
+<a href="https://www.producthunt.com/products/iaso?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-iaso" target="_blank" rel="noopener noreferrer"><img alt="iASO - Free open-source ASO keyword research tool for macOS | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1264062&theme=light&t=1790649649086"></a>
+
+<br>
+
 <img src="screenshots/competitor-research.webp" alt="iASO — Competitor Research" width="900">
 
 </div>
