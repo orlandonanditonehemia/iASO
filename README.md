@@ -1,12 +1,30 @@
+<div align="center">
+
 # iASO
 
-**App Store Optimization research tool for macOS.** Find high-opportunity keywords, analyze competitors, and generate metadata with AI.
+**App Store Optimization research tool for macOS.**  
+Find high-opportunity keywords, analyze competitors, and generate metadata with AI.
 
-![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue) ![Swift 5.9](https://img.shields.io/badge/Swift-5.9-orange) ![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-blue) ![License MIT](https://img.shields.io/badge/License-MIT-green)
+[![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue?style=flat-square)](https://www.apple.com/macos/) [![Swift 5.9](https://img.shields.io/badge/Swift-5.9-orange?style=flat-square)](https://swift.org) [![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-blue?style=flat-square)](https://developer.apple.com/xcode/swiftui/) [![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
----
+<br>
+
+<img src="screenshots/competitor-research.webp" alt="iASO — Competitor Research" width="900">
+
+</div>
+
+<br>
 
 iASO is a native macOS app that helps indie developers and ASO professionals research App Store keywords without paying for expensive subscription tools. It queries the iTunes Search API directly, scores results with a pure algorithmic engine, and uses AI only where it genuinely adds value.
+
+## Table of Contents
+
+- [Features](#features)
+- [Keyword Scoring](#keyword-scoring)
+- [AI Integration](#ai-integration)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
 
 ## Features
 
