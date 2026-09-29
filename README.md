@@ -17,6 +17,8 @@ Find high-opportunity keywords, analyze competitors, and generate metadata with 
 
 iASO is a native macOS app that helps indie developers and ASO professionals research App Store keywords without paying for expensive subscription tools. It queries the iTunes Search API directly, scores results with a pure algorithmic engine, and uses AI only where it genuinely adds value.
 
+> **Free & Open Source.** iASO is a free, open-source alternative to paid ASO tools like AppFollow, Sensor Tower, and Tools4ASO — which charge $50–$300/month for similar keyword research features. No subscription, no account, no data sent anywhere except iTunes and your own AI key.
+
 ## Table of Contents
 
 - [Features](#features)
